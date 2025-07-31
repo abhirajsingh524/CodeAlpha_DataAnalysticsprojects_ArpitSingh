@@ -35,7 +35,6 @@ Insightful visual reports for executives and teams
 🛠️ Tech Stack
 Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 
-Tableau / Power BI for dashboards
 
 Jupyter Notebook for reproducible workflows
 
